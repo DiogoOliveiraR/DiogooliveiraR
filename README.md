@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">🤓Sou estudante de Análise  e desenvolvimento de sistemas.<br>🧑‍🎓Formação: Tecnólogo em Mecatrônica Industrial.</h2>
+<h2 align="left">🤓Sou estudante de Análise e Desenvolvimento de Sistemas.<br>🧑‍🎓Formação: Tecnólogo em Mecatrônica Industrial.</h2>
 
 ###
 
