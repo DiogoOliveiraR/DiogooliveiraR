@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Aprendendo a criar soluções<br>📚 Atualmente aprendendo Python, Estatística, Machine Learning e Power BI<br>🎯 Meu objetivo é aplicar e aprimorar meus conhecimentos em Análise de Dados e Data Science</p>
+<p align="left">✨ Desenvolvimento Web (HTML, CSS, JavaScript e frameworks)<br>📚  Nova jornada na carreira de Tecnologia <br>🎯 Apaixonado por criar soluções inteligentes, unindo tecnologia, dados e automação</p>
 
 ###
 
