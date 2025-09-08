@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou Diogo Oliveira Rdrigues</p>
+<p align="left">Sou Diogo Oliveira Rodrigues</p>
 
 ###
 
