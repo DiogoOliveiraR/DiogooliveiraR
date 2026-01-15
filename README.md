@@ -33,7 +33,6 @@ F1RST Digital Services<br>
 
 ###
 
-<h2 align="left">🛠️ Ferramentas de QA & Automação</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo" />
@@ -43,6 +42,8 @@ F1RST Digital Services<br>
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="40" alt="cucumber logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo" />
+  <img width="12" />
 </div>
 
 
