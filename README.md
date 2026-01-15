@@ -10,7 +10,22 @@
 
 ###
 
-<p align="left">✨ Desenvolvimento Web (HTML, CSS, JavaScript e frameworks)<br>📚  Nova jornada na carreira de Tecnologia <br>🎯 Apaixonado por criar soluções inteligentes, unindo tecnologia, dados e automação</p>
+<h2 align="left">💼 Experiência Profissional</h2>
+
+<p align="left">
+<b>Estágio – Tecnologia & Operações (QA)</b><br>
+F1RST Digital Services<br>
+🗓 nov/2025 – atualmente | 📍 São Paulo – Híbrido
+</p>
+
+<ul align="left">
+  <li>🔹 Apoio no desenvolvimento de automação de testes utilizando <b>Java, Selenium, Cucumber e Chrome WebDriver</b></li>
+  <li>🔹 Execução e documentação de testes manuais seguindo padrões de qualidade (Octane)</li>
+  <li>🔹 Realização de testes regressivos para garantia da qualidade do software</li>
+  <li>🔹 Atuação em squads ágeis utilizando <b>Scrum e Kanban</b></li>
+  <li>🔹 Contribuição para melhoria contínua dos processos de QA</li>
+</ul>
+
 
 ###
 
@@ -23,8 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="40" alt="pandas logo"  />
+  <img width="12" /> 
 </div>
 
 ###
