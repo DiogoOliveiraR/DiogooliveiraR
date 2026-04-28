@@ -19,11 +19,12 @@ F1RST Digital Services<br>
 </p>
 
 <ul align="left">
-  <li>🔹 Apoio no desenvolvimento de automação de testes utilizando <b>Java, Selenium, Cucumber e Chrome WebDriver</b></li>
-  <li>🔹 Execução e documentação de testes manuais seguindo padrões de qualidade (Octane)</li>
-  <li>🔹 Realização de testes regressivos para garantia da qualidade do software</li>
-  <li>🔹 Atuação em squads ágeis utilizando <b>Scrum e Kanban</b></li>
-  <li>🔹 Contribuição para melhoria contínua dos processos de QA</li>
+  <li>🔹 Desenvolvimento de automação de testes utilizando <b>Java, Selenium, Cucumber e Chrome WebDriver</b></li>
+  <li>🔹 Participação na realização e documentação de testes manuais, seguindo padrões de qualidade e utilizando a ferramenta Octane</li>
+  <li>🔹 Execução de testes regressivos garantindo estabilidade das entregas e redução de falhas em produção</li>
+  <li>🔹 Colaboração com times multidisciplinares (Squads) em ambientes <b>Scrum e Kanban</b>, promovendo comunicação eficaz e entrega contínua</li>
+  <li>🔹 Contribuição para a melhoria contínua dos processos de QA e entrega de software</li>
+  <li>🔹 Experiência no uso da ferramenta Jira para gerenciamento de tarefas, bugs e acompanhamento de sprints</li>
 </ul>
 
 
